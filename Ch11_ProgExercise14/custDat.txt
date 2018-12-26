@@ -1,0 +1,6 @@
+Donald Duck 1 
+Mickey Mouse 2 
+Minne Mouse 3 
+Goofy Dog 4 
+Doc  Dwarf 5 
+Grumpy Old 6
